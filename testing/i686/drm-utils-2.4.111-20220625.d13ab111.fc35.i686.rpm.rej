@@ -1,0 +1,5 @@
+diff a/testing/i686/drm-utils-2.4.111-20220625.d13ab111.fc35.i686.rpm b/testing/i686/drm-utils-2.4.111-20220625.d13ab111.fc35.i686.rpm	(rejected hunks)
+@@ -0,0 +1,3 @@
++version https://git-lfs.github.com/spec/v1
++oid sha256:a62cef3ab05c48dc77ee97d2518b0e0f0c291ec6f59d630daee371a5a5c1bb50
++size 137316
